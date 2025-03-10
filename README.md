@@ -1,5 +1,5 @@
 
-# A👋 to all fella Geospatia(🐱‍👤)s,
+# A👋
 
 ### I created a Discord server on India-based Geospatial workflows 
 [![discord badge](https://img.shields.io/badge/Anirban-Banerjee?color=white&&logo=discord)](https://discord.gg/7kVpGFvZ)
