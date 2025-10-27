@@ -10,6 +10,8 @@
 
 ### <ins>Education</ins>
 
+University of Debrecen, Doctoral
+
 BIT Mesra, MTech
 
 Madras University, MSc.
