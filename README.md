@@ -1,8 +1,9 @@
 
 # A👋
 
-### I created a Discord server on India-based Geospatial workflows 
-[![discord badge](https://img.shields.io/badge/Anirban-Banerjee?color=white&&logo=discord)](https://discord.gg/7kVpGFvZ)
+### I created a Discord server on Indian territory-based geospatial workflows' paradigm.
+Many different channels have been added: academic R&D, Corporate team leads, entrepreneur boilerplate etc. Use the URLed badge below to join
+[![discord badge](https://img.shields.io/badge/Anirban-Banerjee?color=white&&logo=discord)](https://discord.gg/j2uEv7MB)
 
 ### A geospatial analyst. I learned & am learning through trial and error.
 [![linkedin badge](https://img.shields.io/badge/Anirban-Banerjee?color=blue&&logo=linkedin)](https://www.linkedin.com/in/banerjeeani/)
