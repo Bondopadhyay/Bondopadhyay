@@ -1,7 +1,7 @@
 
 # A👋
 
-### I created a Discord server on Indian territory-based geospatial workflows' paradigm.
+### I created a Discord server on Indian territory-based geospatial workflows' paradigm. Kindly, help, developing it. 
 Many different channels have been added: academic R&D, Corporate team leads, entrepreneur boilerplate etc. Use the URLed badge below to join.
 
 [![discord badge](https://img.shields.io/badge/Anirban-Banerjee?color=white&&logo=discord)](https://discord.gg/j2uEv7MB)
